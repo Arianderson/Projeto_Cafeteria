@@ -1,0 +1,215 @@
+body {
+  margin: 0%;
+
+}
+
+.div1 {
+  width: 100%;
+  height: 60em;
+  background-image: url("https://themecanel.rktheme.com/cafeteria/wp-content/uploads/2023/01/vegetables-set-left-black-slate-min-scaled-1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.div_menu {
+  width: 100%;
+  height: 5em;
+  background-color: #3B3B3B;
+}
+
+.div_nomelogo {
+  width: 250px;
+  height: 100%;
+  padding: 20px 400px;
+  background-color: #8f454500;
+}
+
+.divnav {
+
+  width: 500px;
+  margin-top: -50px;
+  margin-left: 150px;
+  background-color: transparent;
+  padding: 0px 420px;
+  text-decoration: none;
+}
+
+nav {
+  text-decoration: none;
+  list-style: none;
+  display: inline;
+}
+
+nav li {
+  text-decoration: none;
+  display: inline-block;
+  padding: 0 20px;
+}
+
+nav li a {
+  text-decoration: none;
+  color: #FFE8CB;
+  font-family: Abel, Sans-serif;
+}
+
+nav li a:hover {
+  text-decoration: solid;
+  color: rgb(253, 173, 1);
+}
+
+h1 {
+  /*color: #666;*/
+  color: #202020a8;
+}
+
+h2 {
+  /*color: #666;*/
+  color: #FFE8CB;
+  font-family: "Gabriola", Cursive;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.div_main {
+  margin: 60px auto;
+  background-color: #ffffff;
+  width: 1250px;
+  height: 45em;
+  box-shadow: 5px 5px 15px 6px #ffd885d0;
+  border-radius: 10px;
+}
+
+.div_left {
+  text-align: center;
+  background-color: #3B3B3B;
+  float: left;
+  margin: 0px 0px 0px;
+  width: 32%;
+  height: 100%;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+img {
+  width: 70%;
+  border-top-left-radius: 10px;
+}
+
+.check {
+  width: 100px;
+}
+
+.div_right {
+  width: 68%;
+  background-color: #292929;
+  overflow: auto;
+  float: right;
+  height: 100%;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.sucesso {
+  margin: auto;
+  background-color: transparent;
+  width: 35%;
+  height: 55vh;
+  border-radius: 10px;
+  text-align: center;
+  margin-top: 5%;
+}
+
+form {
+  background: #999999;
+  border-radius: 5px;
+  box-shadow: 5px 5px 15px 6px #000000c0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.3em;
+  margin: 45px auto;
+  padding: 1em;
+  width: 40em;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.detalhepedido{
+  background: #999999;
+  border-radius: 5px;
+  box-shadow: 5px 5px 15px 6px #000000c0;
+  gap: 0.3em;
+  margin: 45px auto;
+  padding: 1em;
+  width: 40em;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+input {
+  background-color: #f7f7f7;
+  border: 0px;
+  border-color: transparent;
+  height: 3em;
+  border-radius: 6px;
+}
+
+button {
+
+  border: none;
+  border-radius: 6px;
+  color: #777;
+  font-size: 16px;
+  outline: none;
+  padding: 1em;
+  width: 100%;
+}
+
+select {
+  background-color: #f7f7f7;
+  border: none;
+  border-radius: 5px;
+  color: #777;
+  font-size: 16px;
+  outline: none;
+  padding: 1em;
+  width: 78%;
+}
+.quantidade{
+  background-color: transparent;
+  border: none;
+  border-radius: 5px;
+  color: #000000;
+  font-size: 16px;
+  outline: none;
+  padding: 1em;
+  width: 20%;
+  height: 19em;
+  margin: -325px 31em 0;
+}
+.quantidade select{
+  background-color: #f7f7f7;
+  border: none;
+  border-radius: 5px;
+  color: #777;
+  font-size: 16px;
+  outline: none;
+  padding: 1em;
+  width: 100%;
+  margin-top: 5px;
+}
+.checkbox{
+  width: 20px;
+}
+
+button {
+  color: #2b2b2b;
+  cursor: pointer;
+  font-weight: bold;
+  border: 2px solid #2b2b2b;
+  transition-duration: 0.3s;
+}
+
+button:hover {
+  color: #b17531;
+  background-color: #d8d8d8;
+  border: 2px solid #b17531;
+  cursor: pointer;
+  font-weight: bold;
+}

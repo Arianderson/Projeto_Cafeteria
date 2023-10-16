@@ -1,0 +1,109 @@
+body {
+    margin: 0%;
+    background-color: #05090a;
+
+}
+
+.div1 {
+    width: 100%;
+    height: 60em;
+    background-image: url("https://themecanel.rktheme.com/cafeteria/wp-content/uploads/2023/01/vegetables-set-left-black-slate-min-scaled-1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.div_menu {
+    width: 100%;
+    height: 5em;
+    background-color: #3B3B3B;
+}
+
+.apresentacao {
+    width: 20%;
+    height: 6em;
+    margin: 170px 0px 100px;
+    padding: 0px 420px 130px;
+    background-color: transparent;
+    color: #fff;
+    font-size: 75px;
+    font-family: 'Nunito', sans-serif;
+}
+
+.introduction {
+    background-color: rgb(32, 32, 32);
+    width: 100%;
+    height: 19em;
+    color: #FFE8CB;
+    font-family: "Abhaya Libre", Sans-serif;
+    text-align: center;
+    padding: 200px 0px 0px;
+}
+
+.information {
+    width: 100%;
+    background-color: #11191F;
+    margin: 474px 0px;
+    height: 15em;
+    text-align: center;
+    font-family: "Abhaya Libre", Sans-serif;
+    color: #FFE8CB;
+}
+
+.textintroduction {
+    width: 100%;
+    background-color: transparent;
+    height: 15em;
+    text-align: center;
+    font-family: "Abhaya Libre", Sans-serif;
+    color: #FFE8CB;
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #DFB57A;
+}
+
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #fff;
+}
+
+.div_nomelogo {
+    width: 250px;
+    height: 100%;
+    padding: 20px 400px;
+    background-color: #8f454500;
+}
+
+.divnav {
+
+    width: 500px;
+    margin-top: -50px;
+    margin-left: 150px;
+    background-color: transparent;
+    padding: 0px 420px;
+    text-decoration: none;
+}
+
+nav {
+    text-decoration: none;
+    list-style: none;
+    display: inline;
+}
+
+nav li {
+    text-decoration: none;
+    display: inline-block;
+    padding: 0 20px;
+}
+
+nav li a {
+    text-decoration: none;
+    color: #FFE8CB;
+    font-family: Abel, Sans-serif;
+}
+
+nav li a:hover {
+    text-decoration: solid;
+    color: #fdad01;
+}

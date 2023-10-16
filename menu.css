@@ -1,0 +1,132 @@
+* {
+    font-family: Abel, Sans-serif;
+}
+
+body {
+    margin: 0%;
+
+}
+
+.div1 {
+    width: 100%;
+    height: 60em;
+    background-image: url("https://themecanel.rktheme.com/cafeteria/wp-content/uploads/2023/01/vegetables-set-left-black-slate-min-scaled-1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.background_menu {
+    width: 100%;
+    height: 3em;
+    background-image: url(./img/logomenu.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #FFE8CB;
+    font-size: 60px;
+    text-align: center;
+    padding: 160px 0px;
+    text-decoration: underline;
+}
+
+.information {
+    width: 100%;
+    background-color: #11191F;
+    height: 15em;
+    text-align: center;
+    font-family: "Abhaya Libre", Sans-serif;
+    color: #FFE8CB;
+}
+
+.food {
+    width: 100%;
+    background-color: #0D1317;
+    height: 18em;
+    text-align: center;
+    font-family: "Abhaya Libre", Sans-serif;
+    color: #FFE8CB;
+}
+
+.textinform {
+    width: 100%;
+    background-color: transparent;
+    height: 15em;
+    text-align: center;
+    font-family: "Abhaya Libre", Sans-serif;
+    color: #FFE8CB;
+}
+
+.menulist {
+    width: 100%;
+    background-color: #0D1317;
+    height: 60em;
+    text-align: center;
+    font-family: "Abhaya Libre", Sans-serif;
+    color: #FFE8CB;
+}
+
+.cardapio {
+    width: 100%;
+    height: 60em;
+    background-color: #0D1317;
+
+}
+
+.title {
+    background-color: #0D1317;
+    width: 100%;
+    height: 10px;
+    color: #FFE8CB;
+    font-size: 50px;
+    font-family: "Abhaya Libre", Sans-serif;
+    text-align: center;
+    padding: 120px 0px;
+}
+
+.div_menu {
+    width: 100%;
+    height: 5em;
+    background-color: #3B3B3B;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.div_nomelogo {
+    width: 250px;
+    height: 100%;
+    padding: 20px 400px;
+    background-color: #8f454500;
+}
+
+.divnav {
+
+    width: 500px;
+    margin-top: -50px;
+    margin-left: 150px;
+    background-color: transparent;
+    padding: 0px 420px;
+    text-decoration: none;
+}
+
+nav {
+    text-decoration: none;
+    list-style: none;
+    display: inline;
+}
+
+nav li {
+    text-decoration: none;
+    display: inline-block;
+    padding: 0 20px;
+}
+
+nav li a {
+    text-decoration: none;
+    color: #FFE8CB;
+    font-family: Abel, Sans-serif;
+}
+
+nav li a:hover {
+    text-decoration: solid;
+    color: rgb(253, 173, 1);
+}

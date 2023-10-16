@@ -1,0 +1,135 @@
+body {
+  margin: 0%;
+
+}
+
+.div1 {
+  width: 100%;
+  height: 60em;
+  background-image: url("https://themecanel.rktheme.com/cafeteria/wp-content/uploads/2023/01/vegetables-set-left-black-slate-min-scaled-1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.div_menu {
+  width: 100%;
+  height: 5em;
+  background-color: #3B3B3B;
+}
+
+.div_nomelogo {
+  width: 250px;
+  height: 100%;
+  padding: 20px 400px;
+  background-color: #8f454500;
+}
+
+.divnav {
+
+  width: 500px;
+  margin-top: -50px;
+  margin-left: 150px;
+  background-color: transparent;
+  padding: 0px 420px;
+  text-decoration: none;
+}
+
+nav {
+  text-decoration: none;
+  list-style: none;
+  display: inline;
+}
+
+nav li {
+  text-decoration: none;
+  display: inline-block;
+  padding: 0 20px;
+}
+
+nav li a {
+  text-decoration: none;
+  color: #FFE8CB;
+  font-family: Abel, Sans-serif;
+}
+
+nav li a:hover {
+  text-decoration: solid;
+  color: rgb(253, 173, 1);
+}
+
+h1 {
+  /*color: #666;*/
+  color: #202020a8;
+}
+
+h2 {
+  /*color: #666;*/
+  color: #FFE8CB;
+  font-family: "Gabriola", Cursive;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.div_main {
+  margin: 60px auto;
+  background-color: #ffffff;
+  width: 1250px;
+  height: 45em;
+  box-shadow: 5px 5px 15px 6px #ffdfa2b6;
+  border-radius: 10px;
+}
+
+.div_left {
+  text-align: center;
+  background-color: #3B3B3B;
+  float: left;
+  margin: 0px 0px 0px;
+  width: 32%;
+  height: 100%;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+img {
+  width: 70%;
+  border-top-left-radius: 10px;
+}
+
+.check {
+  width: 100px;
+}
+
+.div_right {
+  width: 68%;
+  background-color: #292929;
+  overflow: auto;
+  float: right;
+  height: 100%;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.sucesso {
+  margin: auto;
+  background-color: transparent;
+  width: 35%;
+  height: 55vh;
+  border-radius: 10px;
+  text-align: center;
+  margin-top: 5%;
+}
+
+.contatos {
+  text-align: center;
+  background: #575757;
+  border-radius: 5px;
+  box-shadow: 5px 5px 15px 6px #000000;
+  display: flex;
+  flex-direction: column;
+  gap: 0.3em;
+  margin: 45px auto;
+  color: #ccb291;
+  padding: 1em;
+  width: 40em;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
