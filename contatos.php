@@ -1,4 +1,9 @@
 <?php include 'head.php'; ?>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="contatos.css">
+</head>
+
 <body>
     <!--background-->
     <div class="div1">
@@ -10,11 +15,11 @@
                 <div class="divnav">
                     <nav>
                         <ul>
-                            <li><a href="index.php">Home</a></li>
-                            <li><a href="menu.php">Menu</a></li>
-                            <li><a href="pedidos1.php">Pedidos</a></li>
-                            <li><a href="contatos.php" style="color: #fdad01;">Contatos</a></li>
-                            <li><a href="login.php">login</a></li>
+                            <li><a href="index.html">Home</a></li>
+                            <li><a href="menu.html">Menu</a></li>
+                            <li><a href="pedidos1.html">Pedidos</a></li>
+                            <li><a href="contatos.html" style="color: #fdad01;">Contatos</a></li>
+                            <li><a href="login.html">login</a></li>
                         </ul>
                     </nav>
                 </div>
