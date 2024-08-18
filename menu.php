@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="menu.css">
-    <title>Cafetetia - Coffee</title>
-</head>
-
+<?php include 'head.php'; ?>
 <body>
     <!--background-->
     <div class="div1">
@@ -19,11 +10,11 @@
                 <div class="divnav">
                     <nav>
                         <ul>
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                             <li><a href="#" style="color: #fdad01;">Menu</a></li>
-                            <li><a href="pedidos1.html">Pedidos</a></li>
-                            <li><a href="contatos.html">Contatos</a></li>
-                            <li><a href="login.html">login</a></li>
+                            <li><a href="pedidos1.php">Pedidos</a></li>
+                            <li><a href="contatos.php">Contatos</a></li>
+                            <li><a href="login.php">login</a></li>
                         </ul>
                     </nav>
                 </div>
