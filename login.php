@@ -1,7 +1,7 @@
-<?php include 'head.php'; ?>
+<?php include './shared/head.php'; ?>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="pedidos.css">
+    <link rel="stylesheet" href="duvida.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.google.com/specimen/Sacramento">
 </head>
@@ -13,14 +13,14 @@
         <div class="div_menu">
             <!--Logo-->
             <div class="div_nomelogo">
-                <img src="./img/logo_nome.jpg" alt="logo_nome" width="70%" />
+                <img src="./img/logo_nome.jpg" alt="logo_nome" width="50%" />
                 <div class="divnav">
                     <nav>
                         <ul>
                             <li><a href="index.php">Home</a></li>
-                            <li><a href="menu.php">Menu</a></li>
-                            <li><a href="pedidos1.php">Pedidos</a></li>
-                            <li><a href="contatos.php">Contatos</a></li>
+                            <li><a href="sobre.php">Sobre</a></li>
+                            <li><a href="duvida.php">Fale Conosco</a></li>
+                            <li><a href="contatos.php">Contato</a></li>
                             <li><a href="login.php" style="color: #fdad01;">login</a></li>
                         </ul>
                     </nav>
@@ -45,6 +45,7 @@
             </div>
         </div>
     </div>
+    <!-- footer -->
+ <?php include './shared/footer.php'?>
 </body>
-
 </html>
